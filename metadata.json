@@ -1,0 +1,5 @@
+{
+  "name": "GEFINE Web - Sistema FAPERON",
+  "description": "Modernização web do sistema de gestão GEFINE (originalmente Access), focado em gestão de Associados, Eventos, Financeiro (Receitas/Despesas) e Sindicatos para a FAPERON.",
+  "requestFramePermissions": []
+}
